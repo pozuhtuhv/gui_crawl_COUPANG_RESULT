@@ -7,4 +7,4 @@
 3. 코드 수정은 최신화 안되어있음
 4. market_no_id, market_roc_id(11~12 Line) : List 형태로 추가 필요
 
-![docs](https://raw.githubusercontent.com/pozuhtuhv/0000_imgstorage/main/gui_crawl_coupang_result.png)
+![docs](gui_crawl_coupang_result.png)
